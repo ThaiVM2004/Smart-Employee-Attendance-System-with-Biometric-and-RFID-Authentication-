@@ -16,14 +16,13 @@ Captured images are saved locally on an SD card in ESP32-CAM.
 - List registered employees
 - Delete employees
 ## 📐 Hardware Overview
-| Component          | Description                                 |
-| ------------------ | ------------------------------------------- |
-| ESP32              | Wi-Fi communication and cloud integration   |
-| STM32F103          | Handles fingerprint and RFID modules        |
-| ESP32-CAM          | Captures facial images and saves to SD card |
-| OLED Display       | Displays status and instructions (I2C)      |
-| RFID Module        | Reads employee cards (UART)                 |
-| Fingerprint Sensor | Finger biometric authentication (UART)      |
-| SD Card Module     | Local image storage (SPI)                   |
-| USB Type-C (SMD)   | Power and programming interface             |
-| Capacitors         | Decoupling, filtering for stable operation  |
+| Components          |
+| ------------------ |
+| ESP32              |
+| STM32F103          |
+| ESP32-CAM          |
+| OLED Display       |
+| RFID Module        |
+| Fingerprint Sensor |
+| USB Type-C (SMD)   |
+| Capacitors         |
