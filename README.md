@@ -24,4 +24,15 @@ Captured images are saved locally on an SD card in ESP32-CAM.
 - Fingerprint Sensor 
 - USB Type-C (SMD)   
 - Capacitors
-- Adapter 5V-3A       
+- Adapter 5V-3A
+## 🛠️ PCB Design
+Designed in EasyEDA, routed as a 2-layer PCB.
+- Includes both SMD and through-hole components:
+  - Demonstrates dual-soldering skills (precision + assembly).
+- Layout considerations:
+  - Signal integrity, power routing, decoupling caps.
+  - Clear silkscreen, test points, and USB-C footprint.
+Top layer Image:
+![image](https://github.com/user-attachments/assets/f3ec83b0-9f6f-4ade-adb3-8f3c53b06f05)
+Bottom layer Image:
+![image](https://github.com/user-attachments/assets/d4364c09-b7e4-438d-b341-7fda7608e5be)
