@@ -32,7 +32,10 @@ Designed in EasyEDA, routed as a 2-layer PCB.
 - Layout considerations:
   - Signal integrity, power routing, decoupling caps.
   - Clear silkscreen, test points, and USB-C footprint.
-Top layer Image:
+## Image of PCB:
+- Top layer Image:
+  
 ![image](https://github.com/user-attachments/assets/f3ec83b0-9f6f-4ade-adb3-8f3c53b06f05)
-Bottom layer Image:
+- Bottom layer Image:
+  
 ![image](https://github.com/user-attachments/assets/d4364c09-b7e4-438d-b341-7fda7608e5be)
