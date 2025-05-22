@@ -16,13 +16,12 @@ Captured images are saved locally on an SD card in ESP32-CAM.
 - List registered employees
 - Delete employees
 ## 📐 Hardware Overview
-| Components          |
-| ------------------ |
-| ESP32              |
-| STM32F103          |
-| ESP32-CAM          |
-| OLED Display       |
-| RFID Module        |
-| Fingerprint Sensor |
-| USB Type-C (SMD)   |
-| Capacitors         |
+- ESP32 WROM32 DEV KIT              
+- STM32F103C8T6 DEV KIT          
+- ESP32-CAM DEV KIT (CAM + SD card)         
+- OLED Display       
+- RFID Module        
+- Fingerprint Sensor 
+- USB Type-C (SMD)   
+- Capacitors
+- Adapter 5V-3A       
